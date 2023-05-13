@@ -1,0 +1,77 @@
+﻿[
+  {
+    "Id": "f7d4d7e1-1c69-4b14-9c60-4ac7c614c6f1",
+    "Description": "Captain America's Shield",
+    "Quantity": 10
+  },
+  {
+    "Id": "a2cbbc85-1f5c-4f3a-b8c7-9dca4e3f5b07",
+    "Description": "Iron Man's Arc Reactor",
+    "Quantity": 5
+  },
+  {
+    "Id": "2f1f2bb5-2a4d-4f6c-9189-fd5a5a5e9ae2",
+    "Description": "Thor's Hammer (Mjolnir)",
+    "Quantity": 3
+  },
+  {
+    "Id": "e5bfdd41-5e43-4ae3-bf3d-9d76bd4e7b27",
+    "Description": "Wolverine's Adamantium Claws",
+    "Quantity": 7
+  },
+  {
+    "Id": "c8b2fe1d-1c89-4a12-8b48-1d3c9a6bedd2",
+    "Description": "Spider-Man's Web-Shooters",
+    "Quantity": 12
+  },
+  {
+    "Id": "f4c3f8c7-6d7c-4c16-b7a1-0ab3d2e9e6a8",
+    "Description": "The Infinity Gauntlet",
+    "Quantity": 1
+  },
+  {
+    "Id": "7dc6d9c2-4c8e-4f2f-ba5a-09c5f8b4e8f9",
+    "Description": "Black Panther's Vibranium Suit",
+    "Quantity": 4
+  },
+  {
+    "Id": "5b9d6b61-9d9a-45a5-8b7c-7ce8d6c2f28f",
+    "Description": "The Cosmic Cube",
+    "Quantity": 2
+  },
+  {
+    "Id": "e0d7b1dc-4b0c-4e3e-93d0-35d9d6f6c42c",
+    "Description": "Doctor Strange's Cloak of Levitation",
+    "Quantity": 6
+  },
+  {
+    "Id": "e3f4e29f-6dbd-4551-8e7d-8c3b9f3a8f8e",
+    "Description": "The Punisher's Skull Logo",
+    "Quantity": 8
+  },
+  {
+    "Id": "a5e4d3b7-9c3f-4684-b3e7-8d3f8d0f8d8a",
+    "Description": "Groot's Body",
+    "Quantity": 9
+  },
+  {
+    "Id": "68e25b9a-83fd-4a7b-b9a9-2cc7b0d8a23c",
+    "Description": "The Eye of Agamotto",
+    "Quantity": 2
+  },
+  {
+    "Id": "1c9d1c5a-4584-4c68-a47c-8aff13f5a4a9",
+    "Description": "Daredevil's Billy Club",
+    "Quantity": 7
+  },
+  {
+    "Id": "afdd6ad3-fc66-4f4d-82d3-7554d03de6e6",
+    "Description": "Mjolnir (Beta Ray Bill's)",
+    "Quantity": 1
+  },
+  {
+    "Id": "6b5c3e32-1e2c-4481-8d4a-2a2065f7f34a",
+    "Description": "Captain America's Shield (2nd Shield)",
+    "Quantity": 3
+  }
+]

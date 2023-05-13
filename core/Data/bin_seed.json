@@ -1,0 +1,27 @@
+﻿[
+  {
+    "id": "7dd5c7e5-2e9e-4ebb-b7f6-269c611c83b6",
+    "description": "Bin 1",
+    "items": []
+  },
+  {
+    "id": "e40d7196-b2b5-4a2c-a5a8-7a4d5a0eef24",
+    "description": "Bin 2",
+    "items": []
+  },
+  {
+    "id": "d5c80e1d-8b4e-4d8c-8e54-6e0b366b2576",
+    "description": "Bin 3",
+    "items": []
+  },
+  {
+    "id": "a7b1a3f2-4a8d-4c2f-9c8a-b6c9ad1f7b1e",
+    "description": "Bin 4",
+    "items": []
+  },
+  {
+    "id": "f6c2c8d2-6cd8-4c44-8c6d-53d0a8f4d7c7",
+    "description": "Bin 5",
+    "items": []
+  }
+]
